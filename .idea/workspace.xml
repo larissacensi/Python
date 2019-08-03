@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39bb9b05-2965-4f8e-a52e-127b0b8dd0ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Oukgmy9FJ4NUOENKe72HykwmdJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio10">
+  <component name="RunManager" selected="Python.Exercicio14">
     <configuration name="Exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio14" />
+        <item itemvalue="Python.Exercicio13" />
+        <item itemvalue="Python.Exercicio12" />
+        <item itemvalue="Python.Exercicio11" />
         <item itemvalue="Python.Exercicio10" />
-        <item itemvalue="Python.Exercicio9" />
-        <item itemvalue="Python.Exercicio8" />
-        <item itemvalue="Python.Exercicio7" />
-        <item itemvalue="Python.Exercicio6" />
       </list>
     </recent_temporary>
   </component>
