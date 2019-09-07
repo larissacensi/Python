@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39bb9b05-2965-4f8e-a52e-127b0b8dd0ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula3/Projeto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula3/animal_acao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula3/animal_estimacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula3/calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula3/usando_calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/Funcao1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/Funcao2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Lista1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Lista2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Lista3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Lista4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Lista5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ola.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ola.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +39,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CLIENTE\Documents\GitHub\Python\Aula3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercicio14">
-    <configuration name="Exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.usando_calculadora">
+    <configuration name="Funcao2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funcao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcao/Funcao2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="animal_acao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula3/animal_acao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="animal_estimacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula3/animal_estimacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula3/calculadora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="usando_calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjetosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula3/usando_calculadora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio14" />
-        <item itemvalue="Python.Exercicio13" />
-        <item itemvalue="Python.Exercicio12" />
-        <item itemvalue="Python.Exercicio11" />
-        <item itemvalue="Python.Exercicio10" />
+        <item itemvalue="Python.usando_calculadora" />
+        <item itemvalue="Python.calculadora" />
+        <item itemvalue="Python.animal_acao" />
+        <item itemvalue="Python.animal_estimacao" />
+        <item itemvalue="Python.Funcao2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
